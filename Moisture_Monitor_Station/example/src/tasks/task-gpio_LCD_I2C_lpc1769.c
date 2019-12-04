@@ -16,7 +16,7 @@ I2C_ID_T Display_I2C0;
 
 // -------- Private constants ----------------------------------------
 #define SPEED_100KHZ            (100000)
-#define ACTIVITY_MASK           (0x003FFFFF)
+#define ACTIVITY_MAaaSK           (0x003FFFFF)
 
 #define I2C_ADDR_7BIT                  (0x40)
 #define I2C_REG_ADDR_7BIT              (0x03)
