@@ -62,7 +62,6 @@ uint32_t expectPulse(uint32_t estado){
 void GPIO_DHT22_Update(void) {
 	static int espera = 100;
 	static int estado = 0;
-	float temp = 0;
 
 	// Check if sensor was read less than two seconds ago and return early to use last reading.
 	// Reset 40 bits of received data to zero.
@@ -167,8 +166,6 @@ void GPIO_DHT22_Update(void) {
 				humedad = (int)(readHumidity()*10);
 				temperatura = (int) (readTemperature()*10);
 
-
-				temp = 1;
 			} else {
 				//DEBUG_PRINTLN(F("DHT checksum failure!"));
 				lastresult = false;

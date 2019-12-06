@@ -64,15 +64,6 @@ void i2c_start(void);
 ****************************************************************************************/
 void GPIO_LCD_Update(void)
 {
-	static uint32_t l1 = 0;
-	static uint32_t l2 = 0;
-	static uint32_t l3 = 0;
-	static uint32_t l4 = 0;
-
-	// Tanto i, como las lineas son globales, controladas por
-	// la maquina de estados.
-	static uint32_t i = 0;
-
 	static int linea = 0;
 
     Maquina_Estados();
@@ -112,30 +103,6 @@ void GPIO_LCD_Update(void)
 		linea = 0;
 
 }
-
-
-/****************************************************************************************
- * Function Name : Init_LCD();
- * Description :
- * Input : Sequence of Initialization
- * Output : Void
- * Note :
-****************************************************************************************/
-void Init_LCD(void) //ANDARA??
-{
-	LCD_init();
-}
-/****************************************************************************************
- * Function Name : void GPIO_LCD_Init(void);
- * Description : Set up "GPIO" LCD as an output pin
- * Input :
- * Output : Void
- * Note :
-****************************************************************************************/
-void GPIO_LCD_Init(void)
-{
-	Init_LCD();
-}
 /****************************************************************************************
  * Function Name : void lcd_clear( void);
  * lcd_clear()
@@ -169,7 +136,6 @@ void lcd_gotoxy(uint32_t x, uint32_t y) {
 		LCD4_EscribirHW(0xD4 + x, CMND);
 	}
 }
-
 /****************************************************************************************
  * Function Name : void DemoramS(uint32_t);
  * Description : Blocking delay
@@ -178,14 +144,14 @@ void lcd_gotoxy(uint32_t x, uint32_t y) {
  * Void Note :
 ****************************************************************************************/
 void DemoramS(uint32_t milis){
-	uint32_t time = 0;
+	//uint32_t time = 0;
 	uint32_t i,j;
 
-	DWT->CYCCNT=0;
+	//DWT->CYCCNT=0;
 	for(i=0 ; i<milis ; i++){
 		for (j=0 ; j<9088 ; j++);
 	}
-	time = DWT->CYCCNT;
+	//time = DWT->CYCCNT;
 }
 /****************************************************************************************
  * Function Name : void DemorauS(uint32_t);
@@ -195,18 +161,24 @@ void DemoramS(uint32_t milis){
  * Void Note :
 ****************************************************************************************/
 void DemorauS(uint32_t micros){
-	uint32_t time = 0;
+	//uint32_t time = 0;
 	uint32_t i,j;
 
-	DWT->CYCCNT=0;
+	//DWT->CYCCNT=0;
 	for(i=0 ; i<micros ; i++){
 		for (j=0 ; j<8 ; j++);
 	}
-	time = DWT->CYCCNT;
+	//time = DWT->CYCCNT;
 }
-
+/****************************************************************************************
+ * Function Name : void DemorauS(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 void escribir_byte(unsigned char dato) {
-    unsigned char byte_dire;
+    //unsigned char byte_dire;
     /* start */
     i2c_start();
     i2c_tx(PCF_DEVICE_ID); // device id 0100111+Write
@@ -218,14 +190,26 @@ void escribir_byte(unsigned char dato) {
     /* stop */
     i2c_stop();
 }
-
+/****************************************************************************************
+ * Function Name : void DemorauS(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 /* --- funciones generales para IIC --- */
 void I2Cdelay(void) {
     unsigned int i;
     for (i = 0; i < 50; i++)
         ;
 }
-
+/****************************************************************************************
+ * Function Name : void DemorauS(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 void i2c_tx(unsigned char byte) {
     unsigned char i;
 
@@ -267,7 +251,13 @@ void i2c_tx(unsigned char byte) {
     //SCL = 0;
     I2Cdelay();
 }
-
+/****************************************************************************************
+ * Function Name : void DemorauS(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 void i2c_start() {
     // SDA salida
     Chip_GPIO_SetPinDIROutput(LPC_GPIO, GPIO_I2C_PORT, GPIO_I2C_SDA);
@@ -290,7 +280,13 @@ void i2c_start() {
 
     I2Cdelay();
 }
-
+/****************************************************************************************
+ * Function Name : void DemorauS(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 void i2c_stop(void) {
     // SDA salida
     Chip_GPIO_SetPinDIROutput(LPC_GPIO, GPIO_I2C_PORT, GPIO_I2C_SDA);
@@ -309,8 +305,13 @@ void i2c_stop(void) {
 
     I2Cdelay();
 }
-
-
+/****************************************************************************************
+ * Function Name : void DemorauS(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 /* ----------------------------------------------------- muestra string --- */
 void printstr(char* s) {
     int i = 0;
@@ -319,12 +320,26 @@ void printstr(char* s) {
         i++;
     }
 }
+/****************************************************************************************
+ * Function Name : void DemorauS(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 /* -------------------------------------------------------- retardo LCD --- */
 void delay(unsigned int n) {
 	DemorauS(n);
 }
+/****************************************************************************************
+ * Function Name : void DemorauS(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 /* ------------------------------------------------- inicialización LCD --- */
-void LCD_init() {
+void LCD_Init() {
     delay(50000);
     delay(50000);
     delay(50000);
@@ -345,6 +360,13 @@ void LCD_init() {
     /* --- inc - no scroll --- */
     LCD_send(0x06, CMND);
 }
+/****************************************************************************************
+ * Function Name : void DemorauS(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 /* ----------------------------------------------------- escribe 4 bits --- */
 /* --------------------------------------------------- en patas B[3..0] --- */
 void LCD_wr(unsigned char data) {
@@ -362,6 +384,13 @@ void LCD_wr(unsigned char data) {
     escribir_byte(DATOI2C);
     delay(1000);
 }
+/****************************************************************************************
+ * Function Name : void DemorauS(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 /* -------------- escribe 4 MSb, luego 4 LSb Si ope = 1 DATO, si 0 CMND --- */
 void LCD_send(unsigned char data, unsigned char ope) {
     unsigned char half;
@@ -376,16 +405,29 @@ void LCD_send(unsigned char data, unsigned char ope) {
     LCD_wr(half);
     RS = 0;
 }
+/****************************************************************************************
+ * Function Name : void DemorauS(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 void CargarString(char* Linea, char* String){
 	int i;
 	for(i=0; i<=20; i++)
 	{
 		Linea[i]=String[i];
-		if(String[i] == '/0')
+		if(String[i] == '\0')
 			return;
 	}
 }
-
+/****************************************************************************************
+ * Function Name : void DemorauS(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 void Maquina_Estados(void){
 	static int estado = 0;
 	static int val = 0;

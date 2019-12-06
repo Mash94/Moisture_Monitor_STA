@@ -48,12 +48,13 @@
 #define UART1_TX_PIN    (15)
 #define UART1_RX_PIN    (16)
 
-// I2C
+// I2C - LCD
 #define GPIO_I2C_PORT   (0)
 #define GPIO_I2C_SDA    (0)  //0
 #define GPIO_I2C_SCL    (1)  //1
 
 // LCD
+/*
 #define GPIO_LCD_PORT2  (2) ///SEGUN UNIVERSAL
 #define GPIO_LCD_D4     (13)
 
@@ -69,6 +70,7 @@
 #define GPIO_LCD_RW     (1)
 #define GPIO_LCD_EN     (2)
 //#define GPIO_LCD_BL ()
+*/
 
 // DHT22
 #define GPIO_DHT22_PORT (0) ///SEGUN UNIVERSAL
@@ -98,8 +100,8 @@
 // WDT is enabled *only* if jumper is in place.
 // (Jumper is read at init phase only)
 // Port 2, Pin 3 => Connected to "SW2 UP" on LPCXpresso baseboard
-#define WDT_JUMPER_PORT (1)
-#define WDT_JUMPER_PIN (18)
+#define WDT_JUMPER_PORT (2)
+#define WDT_JUMPER_PIN (3)
 #define WDT_JUMPER_PIN_MODE (IOCON_MODE_PULLUP)
 #define WDT_JUMPER_PIN_FUNC (IOCON_FUNC0)
 

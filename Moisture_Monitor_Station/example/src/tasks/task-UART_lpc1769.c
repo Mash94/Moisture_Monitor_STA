@@ -42,8 +42,8 @@ static uint8_t txbuff[UART_SRB_SIZE];
 RINGBUFF_T txring, rxring;
 bool blockUART = 1;
 
-uint8_t VecTEM[CHARBUFF]="25.50CF";
-uint8_t VecHUM[CHARBUFF]="40.00HF";
+char VecTEM[CHARBUFF]="25.50CF";
+char VecHUM[CHARBUFF]="40.00HF";
 
 
 /****************************************************************************************

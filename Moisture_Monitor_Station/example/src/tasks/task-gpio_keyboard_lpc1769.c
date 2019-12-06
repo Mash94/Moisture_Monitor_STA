@@ -28,21 +28,13 @@ int key = NINGUNA;
 #define TEST (TEST_2)
 
 // ------ Private variable -----------------------------------------
-
-
-/*------------------------------------------------------------------*-
-    GPIO_LED_Init()
--*------------------------------------------------------------------*/
-/*void GPIO_LED_Init(void)
-{
-	// Set up "GPIO" LED as an output pin
-	Chip_IOCON_PinMux(LPC_IOCON, GPIO_LED_PORT, GPIO_LED_PIN, IOCON_MODE_INACT, IOCON_FUNC0);
-	Chip_GPIO_SetPinDIROutput(LPC_GPIO, GPIO_LED_PORT, GPIO_LED_PIN);
-}
-*/
-/*------------------------------------------------------------------*-
-    GPIO_KEYBOARD_Init()
--*------------------------------------------------------------------*/
+/****************************************************************************************
+ * Function Name : uint32_t expectPulse(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 void GPIO_KEYBOARD_Init(void)
 {
 	// Columna 1
@@ -78,18 +70,13 @@ void GPIO_KEYBOARD_Init(void)
 	Chip_GPIO_SetPinDIROutput(LPC_GPIO, GPIO_FILA_PORT, GPIO_FILA4_PIN);
 }
 
-/*------------------------------------------------------------------*-
-    GPIO_LED_Update()
--*------------------------------------------------------------------*/
-/*void GPIO_LED_Update(void)
-{
-	Chip_GPIO_SetPinDIROutput(LPC_GPIO, GPIO_LED_PORT, GPIO_LED_PIN);
-	Chip_GPIO_SetPinToggle(LPC_GPIO, GPIO_LED_PORT, GPIO_LED_PIN);
-}*/
-
-/*------------------------------------------------------------------*-
-	GPIO_MUX_KEYBOARD_update()
--*------------------------------------------------------------------*/
+/****************************************************************************************
+ * Function Name : uint32_t expectPulse(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 void GPIO_MUX_KEYBOARD_update(void)
 {
 	uint8_t fila = 1;
@@ -215,9 +202,13 @@ void GPIO_MUX_KEYBOARD_update(void)
 		fila++;
     }
 }
-
-
-#if (TEST == TEST_2)
+/****************************************************************************************
+ * Function Name : uint32_t expectPulse(uint32_t);
+ * Description : Blocking delay
+ * Input : Time in Microseconds
+ * Output :
+ * Void Note :
+****************************************************************************************/
 void GPIO_DEBOUNCE_KEYBOARD_Update(void){
 
 	static uint8_t previa = NINGUNA;
@@ -241,8 +232,6 @@ void GPIO_DEBOUNCE_KEYBOARD_Update(void){
 	*/
 	previa = sw_touch;
 }
-#endif
-
 /*------------------------------------------------------------------*-
   ---- END OF FILE -------------------------------------------------
 -*------------------------------------------------------------------*/

@@ -306,21 +306,41 @@ void SCH_Dispatch_Tasks(void)
 
 						(*SCH_tasks_G[Index].pTask)(); // Run the task
 
-						// All tasks are periodic in this design
-						// - schedule task to run again
+					// All tasks are periodic in this design
+					// - schedule task to run again
+					SCH_tasks_G[Index].Debug.LET = MONITTOR_I_Stop();
+					SCH_tasks_G[Index].Debug.State |= SCH_DEBUG_TASK_RUN_OK;
+					SCH_tasks_G[Index].Debug.RunTimes++;
 
-						SCH_tasks_G[Index].Debug.LET = MONITTOR_I_Stop();
-						SCH_tasks_G[Index].Debug.State |= SCH_DEBUG_TASK_RUN_OK;
-						SCH_tasks_G[Index].Debug.RunTimes++;
+					if (SCH_tasks_G[Index].Debug.LET < SCH_tasks_G[Index].Debug.BCET)
+						SCH_tasks_G[Index].Debug.BCET = SCH_tasks_G[Index].Debug.LET;
 
-						SCH_tasks_G[Index].Delay = SCH_tasks_G[Index].Period;
+					if (SCH_tasks_G[Index].Debug.LET > SCH_tasks_G[Index].Debug.WCET)
+						SCH_tasks_G[Index].Debug.WCET = SCH_tasks_G[Index].Debug.LET;
 
-                		// Stop of Task Dispatch Time Measurement
-						DWT_time = DWT_GetTime()/1000; //Retardo Medido por el DWT
-						time_SCH = DWT_time - SCH_tasks_G[Index].Debug.LET;
-                    }
-                }
-            }
+					SCH_tasks_G[Index].Delay = SCH_tasks_G[Index].Period;
+
+					// Stop of Task Dispatch Time Measurement
+					time_SCH = DWT_GetTime();
+					time_SCH = time_SCH / 1000- SCH_tasks_G[Index].Debug.LET;
+
+
+					if(SCH_tasks_G[4].Debug.LET > 3000000){
+						time_SCH = 1;
+					}
+					if(SCH_tasks_G[3].Debug.LET > 300000){
+						time_SCH = 1;
+					}
+					if(SCH_tasks_G[2].Debug.LET > 100000){
+						time_SCH = 1;
+					}
+					if(SCH_tasks_G[1].Debug.LET > 1000000){
+						time_SCH = 1;
+					}
+					time_SCH = SCH_tasks_G[Index].Debug.LET;
+				}
+			}
+		}
         __disable_irq();
         if (Tick_count_G > 0)
             {

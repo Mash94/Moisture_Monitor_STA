@@ -44,6 +44,22 @@ void GPIO_SD_Update(void) {
 	static int i = 0;
 	static int j = 1;
 
+	if (i == 0 && tecla == '1') {
+		if (f_mount(&fs, "", 0) != FR_OK) {
+			/* If this fails, it means that the function could
+			 * not register a file system object.
+			 * Check whether the SD card is correctly connected */
+		}
+
+		/* Create/open a file, then write a string and close it */
+		if (f_open(&fp, FILENAME, FA_OPEN_APPEND | FA_OPEN_ALWAYS | FA_WRITE)
+				== FR_OK) {
+			f_write(&fp, "Nueva Sesion\n", 14, &nbytes);
+			f_write(&fp, "Medicion 0\n", 11, &nbytes);
+			f_close(&fp);
+		}
+	}
+
 	if(i < 10000 && tecla == '1'){
 		/* Give a work area to the default drive */
 		if (f_mount(&fs, "", 0) != FR_OK) {

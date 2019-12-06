@@ -131,7 +131,7 @@ void SYSTEM_Configure_Required_Mode(void)
             GPIO_KEYBOARD_Init();
 
         	// Prepare to Write LED task
-        	GPIO_LCD_Init();
+            LCD_Init();
 
         	// Prepare to Write LED task
         	GPIO_DHT22_Init();
@@ -154,35 +154,35 @@ void SYSTEM_Configure_Required_Mode(void)
             // 5. Task BCET (in microseconds)
 
             // Add watchdog task first  Systick = 10ms => 1 Periodo = 10ms
-            SCH_Add_Task(WATCHDOG_Update, 0, 1, 10, 0); //Periodo = 1 => 10ms Feed => 13ms
+            SCH_Add_Task(WATCHDOG_Update, 0, 1, 1, 0); //Periodo = 1 => 10ms Feed => 13ms
             //Task  :WATCHDOG-Feed; Parámetros: delay = 0ms, período = 10ms, WCET = 200ms, BCET= 0.
 
         	// Add GPIO_LCD task
-        	SCH_Add_Task(GPIO_LCD_Update, 0, 2, 100, 0);
+        	SCH_Add_Task(GPIO_LCD_Update, 0, 1, 3, 0);
         	//Task  :gpio_lcd; Parámetros: delay = 0ms, período = 20ms, WCET = 1s, BCET= 0.
 
         	// Add GPIO_DHT22 task
-            SCH_Add_Task(GPIO_DHT22_Update, 1, 2, 100, 0);
+            SCH_Add_Task(GPIO_DHT22_Update, 1, 1, 1, 0);
         	//Task  :gpio_DHT22; Parámetros: delay = 10ms, período = 20ms, WCET = 1s, BCET= 0.
 
         	// Add UART0 task
-        	SCH_Add_Task(UART0_Update, 0, 10, 100, 0);
+        	SCH_Add_Task(UART0_Update, 0, 10, 1, 0);
         	//Task  :UART0; Parámetros: delay = 20ms, período = 100ms, WCET = 1s, BCET= 0.
 
         	// Add UART0 task
-        	SCH_Add_Task(GPIO_SD_Update, 1, 10, 100, 0);
+        	SCH_Add_Task(GPIO_SD_Update, 1, 10, 3, 0);
         	//Task  :SD; Parámetros: delay = 20ms, período = 100ms, WCET = 1s, BCET= 0.
 
             // Add GPIO_KEYBOARD task
-            SCH_Add_Task(GPIO_MUX_KEYBOARD_update, 0, 1, 20, 0);
+            SCH_Add_Task(GPIO_MUX_KEYBOARD_update, 0, 1, 1, 0);
             //Task  :gpio_keyboard; Parámetros: delay = 0ms, período = 10ms, WCET = 200ms, BCET= 0.
 
             // Add GPIO_KEYBOARD task
-            SCH_Add_Task(GPIO_DEBOUNCE_KEYBOARD_Update, 1, 1, 20, 0);
+            SCH_Add_Task(GPIO_DEBOUNCE_KEYBOARD_Update, 0, 1, 1, 0);
             //Task  :gpio_keyboard; Parámetros: delay = 10ms, período = 10ms, WCET = 200ms, BCET= 0.
 
             // Add Heartbeat task
-            SCH_Add_Task(HEARTBEAT_Update, 0, 100, 20, 0);
+            SCH_Add_Task(HEARTBEAT_Update, 0, 100, 1, 0);
             //Task :Heartbeat; Parametros: delay= 0ms, período = 1s, WCET = 20ms, BCET= 0.
 
             break;

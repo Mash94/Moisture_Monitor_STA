@@ -21,7 +21,7 @@
 
 
 // ------ Public function prototypes -------------------------------
-void Uart_Init(void);
+void UART0_Init(void);
 void UART0_Update(void);
 void CargarUART (char* , int , int);
 

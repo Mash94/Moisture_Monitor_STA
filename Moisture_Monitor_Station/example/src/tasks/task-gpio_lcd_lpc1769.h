@@ -19,9 +19,7 @@
 
 // ------ Public function prototypes -------------------------------
 void GPIO_LCD_Update(void);
-
-void GPIO_LCD_Init(void);
-void Init_LCD(void);
+void LCD_Init(void);
 void LCD4_EscribirHW(uint8_t, uint8_t);
 
 void DemoramS(uint32_t);
