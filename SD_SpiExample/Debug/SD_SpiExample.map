@@ -1,0 +1,1698 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                              ./src/SD_SpiExample.o (Board_LED_Toggle)
+C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+                              ./src/sysinit.o (Board_SystemInit)
+C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+                              ./src/SD_SpiExample.o (f_mount)
+C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+                              C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o) (disk_initialize)
+C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                              ./src/SD_SpiExample.o (SystemCoreClock)
+C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                              C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o) (Chip_Clock_EnablePLL)
+C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                              C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o) (Chip_IOCON_PinMux)
+C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+                              C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o) (Chip_SSP_RWFrames_Blocking)
+C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                              C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o) (Chip_SetupXtalClocking)
+c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(memcpy.o)
+                              C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o) (memcpy)
+c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(memcpy.o) (__aeabi_memcpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+SystemCoreClock     0x4               C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/SD_SpiExample.o
+ .text          0x00000000        0x0 ./src/SD_SpiExample.o
+ .data          0x00000000        0x0 ./src/SD_SpiExample.o
+ .bss           0x00000000        0x0 ./src/SD_SpiExample.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc175x_6x.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0xa6c ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0xc ./src/crp.o
+ .group         0x00000000        0xc ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .crp           0x00000000        0x4 ./src/crp.o
+ .debug_info    0x00000000       0x3f ./src/crp.o
+ .debug_abbrev  0x00000000       0x36 ./src/crp.o
+ .debug_aranges
+                0x00000000       0x18 ./src/crp.o
+ .debug_macro   0x00000000       0x1a ./src/crp.o
+ .debug_macro   0x00000000      0xa6c ./src/crp.o
+ .debug_macro   0x00000000       0x34 ./src/crp.o
+ .debug_line    0x00000000       0xb1 ./src/crp.o
+ .debug_str     0x00000000     0x2ddf ./src/crp.o
+ .comment       0x00000000       0x80 ./src/crp.o
+ .ARM.attributes
+                0x00000000       0x33 ./src/crp.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .text          0x00000000        0x0 ./src/sysinit.o
+ .data          0x00000000        0x0 ./src/sysinit.o
+ .bss           0x00000000        0x0 ./src/sysinit.o
+ .debug_macro   0x00000000      0xa6c ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x12d ./src/sysinit.o
+ .debug_macro   0x00000000      0x5b2 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000       0x7b ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000       0x2d ./src/sysinit.o
+ .debug_macro   0x00000000       0x3a ./src/sysinit.o
+ .debug_macro   0x00000000       0x2d ./src/sysinit.o
+ .debug_macro   0x00000000      0xbb1 ./src/sysinit.o
+ .debug_macro   0x00000000      0x22c ./src/sysinit.o
+ .debug_macro   0x00000000       0x42 ./src/sysinit.o
+ .debug_macro   0x00000000       0x52 ./src/sysinit.o
+ .debug_macro   0x00000000       0x78 ./src/sysinit.o
+ .debug_macro   0x00000000       0x82 ./src/sysinit.o
+ .debug_macro   0x00000000      0x48c ./src/sysinit.o
+ .debug_macro   0x00000000       0x34 ./src/sysinit.o
+ .debug_macro   0x00000000      0x4c5 ./src/sysinit.o
+ .debug_macro   0x00000000      0x1b7 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x21b ./src/sysinit.o
+ .debug_macro   0x00000000      0x1b9 ./src/sysinit.o
+ .debug_macro   0x00000000       0x40 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000      0x162 ./src/sysinit.o
+ .debug_macro   0x00000000       0x94 ./src/sysinit.o
+ .debug_macro   0x00000000       0xb8 ./src/sysinit.o
+ .debug_macro   0x00000000       0x4c ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000      0x328 ./src/sysinit.o
+ .debug_macro   0x00000000       0x49 ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000       0xca ./src/sysinit.o
+ .debug_macro   0x00000000       0x18 ./src/sysinit.o
+ .debug_macro   0x00000000       0xbe ./src/sysinit.o
+ .debug_macro   0x00000000       0x9a ./src/sysinit.o
+ .debug_macro   0x00000000       0x20 ./src/sysinit.o
+ .debug_macro   0x00000000       0x28 ./src/sysinit.o
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text          0x00000000        0x0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .data          0x00000000        0x0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .bss           0x00000000        0x0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_IOCON_EnableOD
+                0x00000000       0x38 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_IOCON_SetI2CPad
+                0x00000000       0x1c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_UART_SendByte
+                0x00000000       0x1c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_UART_ReadByte
+                0x00000000       0x18 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_UART_ReadLineStatus
+                0x00000000       0x16 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_UART_Init
+                0x00000000       0x14 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_UARTPutChar
+                0x00000000       0x34 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_UARTGetChar
+                0x00000000       0x1a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_UARTPutSTR
+                0x00000000       0x2c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_RGB_Set
+                0x00000000       0x2c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Buttons_GetStatus
+                0x00000000       0x54 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .rodata        0x00000000        0x6 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_ENET_GetMacADDR
+                0x00000000       0x34 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_SPI_Init
+                0x00000000       0x84 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_SPI_AssertSSEL
+                0x00000000       0x18 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_SPI_DeassertSSEL
+                0x00000000       0x18 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_I2C_Init
+                0x00000000       0xbc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Serial_CreateStream
+                0x00000000       0x12 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_USBD_Init
+                0x00000000       0x50 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0xbb1 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x22c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x52 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x78 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x48c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x4c5 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x1b7 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x21b C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x162 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x49 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0xca C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0xbe C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x9a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x20 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .text          0x00000000        0x0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .data          0x00000000        0x0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .bss           0x00000000        0x0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0xa66 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0xbb1 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x22c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x52 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x78 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x48c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x4c5 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x1b7 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x21b C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x162 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x49 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0xca C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0xbe C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x9a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x20 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text          0x00000000        0x0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .data          0x00000000        0x0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .bss           0x00000000        0x0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.dir_read
+                0x00000000       0xba C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.dir_remove
+                0x00000000       0x3c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.get_fileinfo
+                0x00000000       0xbe C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.f_read   0x00000000      0x264 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.f_lseek  0x00000000      0x258 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.f_opendir
+                0x00000000       0xb6 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.f_closedir
+                0x00000000       0x2e C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.f_readdir
+                0x00000000       0x78 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.f_stat   0x00000000       0x72 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.f_getfree
+                0x00000000      0x16a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.f_truncate
+                0x00000000      0x126 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.f_unlink
+                0x00000000      0x13c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.f_mkdir  0x00000000      0x210 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.f_rename
+                0x00000000      0x1be C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .debug_macro   0x00000000       0xe9 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .text          0x00000000        0x0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .data          0x00000000        0x0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .bss           0x00000000        0x0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000      0xa6c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000      0xbb1 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000      0x22c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x52 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x78 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000      0x48c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000      0x4c5 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000      0x1b7 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000      0x21b C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000      0x162 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x49 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0xca C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0xbe C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x9a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x20 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLLocked
+                0x00000000       0x24 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLConnected
+                0x00000000       0x24 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text.Chip_USB_Init
+                0x00000000       0x4c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0xa66 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLEnabled
+                0x00000000       0x24 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLConnected
+                0x00000000       0x24 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBPLLInClockRate
+                0x00000000        0xe C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x38 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsPeripheralClockEnabled
+                0x00000000       0x3c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetCPUClockSource
+                0x00000000       0x2a C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetUSBClockDiv
+                0x00000000       0x30 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBClockDiv
+                0x00000000       0x1c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetPCLKDiv
+                0x00000000       0x64 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetCLKOUTSource
+                0x00000000       0x44 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBPLLOutClockRate
+                0x00000000       0x40 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBClockRate
+                0x00000000       0x38 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0xa66 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0xa66 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_Disable
+                0x00000000       0x1e C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_WriteFrames_Blocking
+                0x00000000      0x134 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_ReadFrames_Blocking
+                0x00000000      0x144 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_Int_FlushData
+                0x00000000       0x4c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_Int_RWFrames8Bits
+                0x00000000       0x88 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_Int_RWFrames16Bits
+                0x00000000       0x88 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_SetMaster
+                0x00000000       0x2c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_DeInit
+                0x00000000       0x24 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000      0xa66 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_SetupIrcClocking
+                0x00000000       0x6a C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_SystemInit
+                0x00000000        0xc C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0xa66 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(memcpy.o)
+ .text.memcpy   0x00000000        0x4 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(memcpy.o)
+ .comment       0x00000000       0x80 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x00000000       0x33 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memcpy
+                0x00000000       0x34 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x00000000       0x1c c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset_lowlevel
+                0x00000000       0x32 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x8 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0xa c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libcr_eabihelpers.a(memcpy.o)
+ .ARM.attributes
+                0x00000000       0x21 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libcr_eabihelpers.a(memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/SD_SpiExample.o
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD ./src/sysinit.o
+LOAD C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a
+LOAD C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a
+LOAD C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a
+START GROUP
+LOAD c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a
+LOAD c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libcr_eabihelpers.a
+LOAD c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+END GROUP
+                0x00000000                __base_MFlash512 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00080000                __top_MFlash512 = 0x80000
+                0x00080000                __top_Flash = 0x80000
+                0x10000000                __base_RamLoc32 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x10008000                __top_RAM = 0x10008000
+                0x2007c000                __base_RamAHB32 = 0x2007c000
+                0x2007c000                __base_RAM2 = 0x2007c000
+                0x20084000                __top_RamAHB32 = 0x20084000
+                0x20084000                __top_RAM2 = 0x20084000
+
+.text           0x00000000     0x3cdc
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc175x_6x.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x3cdc LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x4 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x3cdc LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000004 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x46c SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000f4      0x12c ./src/cr_startup_lpc175x_6x.o
+                0x000000f4                data_init
+                0x00000136                bss_init
+                0x0000016c                ResetISR
+                0x000001e4                NMI_Handler
+                0x000001ea                HardFault_Handler
+                0x000001f0                MemManage_Handler
+                0x000001f6                BusFault_Handler
+                0x000001fc                UsageFault_Handler
+                0x00000202                SVC_Handler
+                0x00000208                DebugMon_Handler
+                0x0000020e                PendSV_Handler
+                0x0000021a                UART1_IRQHandler
+                0x0000021a                EINT3_IRQHandler
+                0x0000021a                CANActivity_IRQHandler
+                0x0000021a                TIMER3_IRQHandler
+                0x0000021a                UART0_IRQHandler
+                0x0000021a                USBActivity_IRQHandler
+                0x0000021a                EINT2_IRQHandler
+                0x0000021a                IntDefaultHandler
+                0x0000021a                PLL0_IRQHandler
+                0x0000021a                CAN_IRQHandler
+                0x0000021a                I2C0_IRQHandler
+                0x0000021a                SSP0_IRQHandler
+                0x0000021a                I2C1_IRQHandler
+                0x0000021a                I2C2_IRQHandler
+                0x0000021a                RTC_IRQHandler
+                0x0000021a                TIMER0_IRQHandler
+                0x0000021a                SPI_IRQHandler
+                0x0000021a                RIT_IRQHandler
+                0x0000021a                EINT1_IRQHandler
+                0x0000021a                TIMER1_IRQHandler
+                0x0000021a                UART2_IRQHandler
+                0x0000021a                ADC_IRQHandler
+                0x0000021a                SSP1_IRQHandler
+                0x0000021a                USB_IRQHandler
+                0x0000021a                BOD_IRQHandler
+                0x0000021a                PWM1_IRQHandler
+                0x0000021a                WDT_IRQHandler
+                0x0000021a                I2S_IRQHandler
+                0x0000021a                QEI_IRQHandler
+                0x0000021a                EINT0_IRQHandler
+                0x0000021a                ETH_IRQHandler
+                0x0000021a                PLL1_IRQHandler
+                0x0000021a                DMA_IRQHandler
+                0x0000021a                TIMER2_IRQHandler
+                0x0000021a                UART3_IRQHandler
+                0x0000021a                MCPWM_IRQHandler
+ *(.text*)
+ .text.NVIC_SetPriority
+                0x00000220       0x54 ./src/SD_SpiExample.o
+ .text.SysTick_Config
+                0x00000274       0x44 ./src/SD_SpiExample.o
+ .text.Chip_SSP_Enable
+                0x000002b8       0x1e ./src/SD_SpiExample.o
+ *fill*         0x000002d6        0x2 ff
+ .text.initHardware
+                0x000002d8       0x40 ./src/SD_SpiExample.o
+ .text.SysTick_Handler
+                0x00000318       0x28 ./src/SD_SpiExample.o
+                0x00000318                SysTick_Handler
+ .text.main     0x00000340       0xac ./src/SD_SpiExample.o
+                0x00000340                main
+ .text.SystemInit
+                0x000003ec       0x24 ./src/sysinit.o
+                0x000003ec                SystemInit
+ .text.Chip_IOCON_Init
+                0x00000410       0x16 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_Init
+                0x00000426       0x16 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_SetPinState
+                0x0000043c       0x64 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_WritePortBit
+                0x000004a0       0x2c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_GetPinState
+                0x000004cc       0x38 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_ReadPortBit
+                0x00000504       0x26 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_SetPinDIROutput
+                0x0000052a       0x36 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_SetPinDIRInput
+                0x00000560       0x3a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_SetPinDIR
+                0x0000059a       0x42 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_WriteDirBit
+                0x000005dc       0x2e C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ *fill*         0x0000060a        0x2 ff
+ .text.Board_LED_Init
+                0x0000060c       0x18 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_LED_Set
+                0x00000624       0x2c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x00000624                Board_LED_Set
+ .text.Board_LED_Test
+                0x00000650       0x34 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x00000650                Board_LED_Test
+ .text.Board_LED_Toggle
+                0x00000684       0x46 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x00000684                Board_LED_Toggle
+ .text.Board_Buttons_Init
+                0x000006ca        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x000006ca                Board_Buttons_Init
+ *fill*         0x000006d6        0x2 ff
+ .text.Board_Init
+                0x000006d8       0x24 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x000006d8                Board_Init
+ .text.Board_SSP_Init
+                0x000006fc       0xa4 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x000006fc                Board_SSP_Init
+ .text.Chip_SYSCTL_SetFLASHAccess
+                0x000007a0       0x30 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .text.Board_SetupMuxing
+                0x000007d0       0x1c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+                0x000007d0                Board_SetupMuxing
+ .text.Board_SetupClocking
+                0x000007ec       0x12 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+                0x000007ec                Board_SetupClocking
+ .text.Board_SystemInit
+                0x000007fe       0x10 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+                0x000007fe                Board_SystemInit
+ .text.ld_word  0x0000080e       0x2e C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.ld_dword
+                0x0000083c       0x44 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.st_word  0x00000880       0x34 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.st_dword
+                0x000008b4       0x56 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.mem_cpy  0x0000090a       0x40 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.mem_set  0x0000094a       0x32 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.mem_cmp  0x0000097c       0x4c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.chk_chr  0x000009c8       0x34 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.sync_window
+                0x000009fc       0x88 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.move_window
+                0x00000a84       0x5a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ *fill*         0x00000ade        0x2 ff
+ .text.sync_fs  0x00000ae0       0xdc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.clust2sect
+                0x00000bbc       0x3c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.get_fat  0x00000bf8      0x14a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.put_fat  0x00000d42      0x1ce C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.remove_chain
+                0x00000f10       0xc6 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.create_chain
+                0x00000fd6      0x130 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.dir_sdi  0x00001106       0xf6 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.dir_next
+                0x000011fc      0x18a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.dir_alloc
+                0x00001386       0x8e C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.ld_clust
+                0x00001414       0x3e C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.st_clust
+                0x00001452       0x40 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.dir_find
+                0x00001492       0xaa C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.dir_register
+                0x0000153c       0x64 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.create_name
+                0x000015a0      0x11c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.follow_path
+                0x000016bc       0xe2 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.get_ldnumber
+                0x0000179e       0x86 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.check_fs
+                0x00001824       0xac C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.find_volume
+                0x000018d0      0x494 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.validate
+                0x00001d64       0x6c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .text.f_mount  0x00001dd0       0x88 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+                0x00001dd0                f_mount
+ .text.f_open   0x00001e58      0x314 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+                0x00001e58                f_open
+ .text.f_write  0x0000216c      0x2d0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+                0x0000216c                f_write
+ .text.f_sync   0x0000243c       0xfc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+                0x0000243c                f_sync
+ .text.f_close  0x00002538       0x3e C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+                0x00002538                f_close
+ .text.Chip_GPIO_SetPinState
+                0x00002576       0x64 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .text.Chip_GPIO_WritePortBit
+                0x000025da       0x2c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ *fill*         0x00002606        0x2 ff
+ .text.SSPSend  0x00002608       0x38 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .text.SSPReceive
+                0x00002640       0x38 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+                0x00002640                SSPReceive
+ .text.xmit_spi
+                0x00002678       0x1c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .text.rcvr_spi
+                0x00002694       0x1e C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ *fill*         0x000026b2        0x2 ff
+ .text.wait_ready
+                0x000026b4       0x38 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .text.deselect
+                0x000026ec       0x1c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .text.select_  0x00002708       0x2c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .text.power_on
+                0x00002734        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .text.power_off
+                0x00002740        0xc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .text.chk_power
+                0x0000274c        0xe C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ *fill*         0x0000275a        0x2 ff
+ .text.rcvr_datablock
+                0x0000275c       0x8c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .text.xmit_datablock
+                0x000027e8       0x80 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .text.send_cmd
+                0x00002868       0xd4 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .text.disk_initialize
+                0x0000293c      0x1a8 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+                0x0000293c                disk_initialize
+ .text.disk_status
+                0x00002ae4       0x28 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+                0x00002ae4                disk_status
+ .text.disk_read
+                0x00002b0c       0xd4 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+                0x00002b0c                disk_read
+ .text.disk_write
+                0x00002be0      0x104 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+                0x00002be0                disk_write
+ .text.disk_ioctl
+                0x00002ce4      0x39c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+                0x00002ce4                disk_ioctl
+ .text.disk_timerproc
+                0x00003080       0x88 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+                0x00003080                disk_timerproc
+ .text.SystemCoreClockUpdate
+                0x00003108       0x18 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                0x00003108                SystemCoreClockUpdate
+ .text.Chip_Clock_IsMainPLLEnabled
+                0x00003120       0x24 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsMainPLLConnected
+                0x00003144       0x24 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_FeedPLL
+                0x00003168       0x34 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainPLLSource
+                0x0000319c       0x20 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainOscRate
+                0x000031bc       0x14 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetIntOscRate
+                0x000031d0       0x14 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetRTCOscRate
+                0x000031e4       0x14 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainPLLInClockRate
+                0x000031f8        0xe C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ *fill*         0x00003206        0x2 ff
+ .text.Chip_Clock_EnablePLL
+                0x00003208       0x44 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00003208                Chip_Clock_EnablePLL
+ .text.Chip_Clock_DisablePLL
+                0x0000324c       0x48 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x0000324c                Chip_Clock_DisablePLL
+ .text.Chip_Clock_SetupPLL
+                0x00003294       0x5c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00003294                Chip_Clock_SetupPLL
+ .text.Chip_Clock_EnablePeriphClock
+                0x000032f0       0x34 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000032f0                Chip_Clock_EnablePeriphClock
+ .text.Chip_Clock_GetCPUClockSource
+                0x00003324       0x24 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00003324                Chip_Clock_GetCPUClockSource
+ .text.Chip_Clock_SetCPUClockDiv
+                0x00003348       0x20 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00003348                Chip_Clock_SetCPUClockDiv
+ .text.Chip_Clock_GetCPUClockDiv
+                0x00003368       0x1c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00003368                Chip_Clock_GetCPUClockDiv
+ .text.Chip_Clock_GetPCLKDiv
+                0x00003384       0x8c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00003384                Chip_Clock_GetPCLKDiv
+ .text.Chip_Clock_GetSYSCLKRate
+                0x00003410       0x34 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00003410                Chip_Clock_GetSYSCLKRate
+ .text.Chip_Clock_GetMainPLLOutClockRate
+                0x00003444       0x54 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00003444                Chip_Clock_GetMainPLLOutClockRate
+ .text.Chip_Clock_GetMainClockRate
+                0x00003498       0x28 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00003498                Chip_Clock_GetMainClockRate
+ .text.Chip_Clock_GetSystemClockRate
+                0x000034c0       0x18 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000034c0                Chip_Clock_GetSystemClockRate
+ .text.Chip_Clock_GetPeripheralClockRate
+                0x000034d8       0x26 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000034d8                Chip_Clock_GetPeripheralClockRate
+ .text.Chip_IOCON_PinMuxSet
+                0x000034fe       0x36 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                0x000034fe                Chip_IOCON_PinMuxSet
+ .text.Chip_IOCON_PinMux
+                0x00003534       0x94 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                0x00003534                Chip_IOCON_PinMux
+ .text.Chip_IOCON_SetPinMuxing
+                0x000035c8       0x62 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                0x000035c8                Chip_IOCON_SetPinMuxing
+ .text.Chip_SSP_GetStatus
+                0x0000362a       0x28 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_GetRawIntStatus
+                0x00003652       0x28 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_GetDataSize
+                0x0000367a       0x1e C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_ClearIntPending
+                0x00003698       0x1c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_ReceiveFrame
+                0x000036b4       0x18 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_SendFrame
+                0x000036cc       0x1c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_SetFormat
+                0x000036e8       0x30 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_Set_Mode
+                0x00003718       0x24 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.SSP_Write2BFifo
+                0x0000373c       0x46 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.SSP_Write1BFifo
+                0x00003782       0x46 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.SSP_Read2BFifo
+                0x000037c8       0x5c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.SSP_Read1BFifo
+                0x00003824       0x5c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_GetClockIndex
+                0x00003880       0x2c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_GetClkIndex
+                0x000038ac       0x2c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .text.Chip_SSP_SetClockRate
+                0x000038d8       0x34 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+                0x000038d8                Chip_SSP_SetClockRate
+ .text.Chip_SSP_RWFrames_Blocking
+                0x0000390c      0x106 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+                0x0000390c                Chip_SSP_RWFrames_Blocking
+ .text.Chip_SSP_SetBitRate
+                0x00003a12       0x74 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+                0x00003a12                Chip_SSP_SetBitRate
+ *fill*         0x00003a86        0x2 ff
+ .text.Chip_SSP_Init
+                0x00003a88       0x40 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+                0x00003a88                Chip_SSP_Init
+ .text.Chip_Clock_IsMainPLLEnabled
+                0x00003ac8       0x24 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_IsMainPLLLocked
+                0x00003aec       0x24 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_IsMainPLLConnected
+                0x00003b10       0x24 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_EnableCrystal
+                0x00003b34       0x20 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_IsCrystalEnabled
+                0x00003b54       0x24 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_SetMainPLLSource
+                0x00003b78       0x20 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_SetupXtalClocking
+                0x00003b98       0x90 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                0x00003b98                Chip_SetupXtalClocking
+ .text.__weak_main
+                0x00003c28        0x4 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(__weak__main.o)
+                0x00003c28                __weak_main
+                0x00003c28                __main
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata        0x00003c2c       0x51 ./src/SD_SpiExample.o
+ *fill*         0x00003c7d        0x3 ff
+ .rodata.OscRateIn
+                0x00003c80        0x4 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x00003c80                OscRateIn
+ .rodata.RTCOscRateIn
+                0x00003c84        0x4 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x00003c84                RTCOscRateIn
+ .rodata.pinmuxing
+                0x00003c88       0x44 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .rodata        0x00003ccc        0xf C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+                0x00003cdc                . = ALIGN (0x4)
+ *fill*         0x00003cdb        0x1 ff
+
+.glue_7         0x00003cdc        0x0
+ .glue_7        0x00003cdc        0x0 linker stubs
+
+.glue_7t        0x00003cdc        0x0
+ .glue_7t       0x00003cdc        0x0 linker stubs
+
+.vfp11_veneer   0x00003cdc        0x0
+ .vfp11_veneer  0x00003cdc        0x0 linker stubs
+
+.v4_bx          0x00003cdc        0x0
+ .v4_bx         0x00003cdc        0x0 linker stubs
+
+.iplt           0x00003cdc        0x0
+ .iplt          0x00003cdc        0x0 ./src/SD_SpiExample.o
+
+.rel.dyn        0x00003cdc        0x0
+ .rel.iplt      0x00003cdc        0x0 ./src/SD_SpiExample.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00003cdc                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00003cdc                __exidx_end = .
+                0x00003cdc                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x00003cdc
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM2 = .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM2 = .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x4 load address 0x00003cdc
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.Stat     0x10000000        0x1 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+                0x10000004                . = ALIGN (0x4)
+ *fill*         0x10000001        0x3 ff
+                0x10000004                _edata = .
+
+.igot.plt       0x10000004        0x0 load address 0x00003ce0
+ .igot.plt      0x10000004        0x0 ./src/SD_SpiExample.o
+
+.bss_RAM2       0x2007c000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM2 = .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM2 = .)
+
+.bss            0x10000004      0x46c
+                0x10000004                _bss = .
+ *(.bss*)
+ .bss.ms_ticks  0x10000004        0x4 ./src/SD_SpiExample.o
+ .bss.fs        0x10000008      0x230 ./src/SD_SpiExample.o
+ .bss.fp        0x10000238      0x228 ./src/SD_SpiExample.o
+ .bss.FatFs     0x10000460        0x4 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .bss.Fsid      0x10000464        0x2 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .bss.Timer1    0x10000466        0x1 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .bss.Timer2    0x10000467        0x1 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .bss.CardType  0x10000468        0x1 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .bss.pv.7449   0x10000469        0x1 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ *(COMMON)
+ *fill*         0x1000046a        0x2 
+ COMMON         0x1000046c        0x4 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                0x1000046c                SystemCoreClock
+                0x10000470                . = ALIGN (0x4)
+                0x10000470                _ebss = .
+                [!provide]                PROVIDE (end = .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x10000470        0x0
+                0x10000470                _noinit = .
+ *(.noinit*)
+                0x10000470                . = ALIGN (0x4)
+                0x10000470                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart = DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                PROVIDE (_vStackTop = DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0xefff74de                PROVIDE (__valid_user_code_checksum = (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+                0x00000000                _image_start = LOADADDR (.text)
+                0x00003ce0                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x00003ce0                _image_size = (_image_end - _image_start)
+OUTPUT(SD_SpiExample.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x717c
+ .debug_info    0x00000000      0xb77 ./src/SD_SpiExample.o
+ .debug_info    0x00000b77      0x255 ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x00000dcc      0x232 ./src/sysinit.o
+ .debug_info    0x00000ffe     0x1321 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_info    0x0000231f      0x6c3 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_info    0x000029e2     0x18d6 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .debug_info    0x000042b8      0xa07 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_info    0x00004cbf      0x558 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_info    0x00005217      0xba2 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_info    0x00005db9      0x31e C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_info    0x000060d7      0xc31 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_info    0x00006d08      0x474 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_abbrev   0x00000000     0x175b
+ .debug_abbrev  0x00000000      0x283 ./src/SD_SpiExample.o
+ .debug_abbrev  0x00000283      0x114 ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x00000397       0xdd ./src/sysinit.o
+ .debug_abbrev  0x00000474      0x35a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_abbrev  0x000007ce      0x180 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_abbrev  0x0000094e      0x1b1 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .debug_abbrev  0x00000aff      0x2b7 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_abbrev  0x00000db6      0x151 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_abbrev  0x00000f07      0x309 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_abbrev  0x00001210      0x14a C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_abbrev  0x0000135a      0x273 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_abbrev  0x000015cd      0x18e C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_aranges  0x00000000      0x778
+ .debug_aranges
+                0x00000000       0x48 ./src/SD_SpiExample.o
+ .debug_aranges
+                0x00000048       0x80 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x000000c8       0x20 ./src/sysinit.o
+ .debug_aranges
+                0x000000e8      0x130 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_aranges
+                0x00000218       0x38 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_aranges
+                0x00000250      0x198 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .debug_aranges
+                0x000003e8       0xc0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_aranges
+                0x000004a8       0x38 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_aranges
+                0x000004e0      0x120 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_aranges
+                0x00000600       0x30 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_aranges
+                0x00000630       0xe8 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_aranges
+                0x00000718       0x60 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_ranges   0x00000000      0x6b8
+ .debug_ranges  0x00000000       0x38 ./src/SD_SpiExample.o
+ .debug_ranges  0x00000038       0x70 ./src/cr_startup_lpc175x_6x.o
+ .debug_ranges  0x000000a8       0x10 ./src/sysinit.o
+ .debug_ranges  0x000000b8      0x120 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_ranges  0x000001d8       0x28 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_ranges  0x00000200      0x188 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .debug_ranges  0x00000388       0xb0 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_ranges  0x00000438       0x28 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_ranges  0x00000460      0x110 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_ranges  0x00000570       0x20 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_ranges  0x00000590       0xd8 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_ranges  0x00000668       0x50 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_macro    0x00000000     0x6c32
+ .debug_macro   0x00000000      0x23f ./src/SD_SpiExample.o
+ .debug_macro   0x0000023f      0xa6c ./src/SD_SpiExample.o
+ .debug_macro   0x00000cab       0x10 ./src/SD_SpiExample.o
+ .debug_macro   0x00000cbb      0x12d ./src/SD_SpiExample.o
+ .debug_macro   0x00000de8      0x5b2 ./src/SD_SpiExample.o
+ .debug_macro   0x0000139a       0x22 ./src/SD_SpiExample.o
+ .debug_macro   0x000013bc       0x7b ./src/SD_SpiExample.o
+ .debug_macro   0x00001437       0x10 ./src/SD_SpiExample.o
+ .debug_macro   0x00001447       0x2d ./src/SD_SpiExample.o
+ .debug_macro   0x00001474       0x3a ./src/SD_SpiExample.o
+ .debug_macro   0x000014ae       0x2d ./src/SD_SpiExample.o
+ .debug_macro   0x000014db      0xbb1 ./src/SD_SpiExample.o
+ .debug_macro   0x0000208c      0x22c ./src/SD_SpiExample.o
+ .debug_macro   0x000022b8       0x42 ./src/SD_SpiExample.o
+ .debug_macro   0x000022fa       0x52 ./src/SD_SpiExample.o
+ .debug_macro   0x0000234c       0x78 ./src/SD_SpiExample.o
+ .debug_macro   0x000023c4       0x82 ./src/SD_SpiExample.o
+ .debug_macro   0x00002446      0x48c ./src/SD_SpiExample.o
+ .debug_macro   0x000028d2       0x34 ./src/SD_SpiExample.o
+ .debug_macro   0x00002906      0x4c5 ./src/SD_SpiExample.o
+ .debug_macro   0x00002dcb      0x1b7 ./src/SD_SpiExample.o
+ .debug_macro   0x00002f82       0x10 ./src/SD_SpiExample.o
+ .debug_macro   0x00002f92      0x21b ./src/SD_SpiExample.o
+ .debug_macro   0x000031ad      0x1b9 ./src/SD_SpiExample.o
+ .debug_macro   0x00003366       0x40 ./src/SD_SpiExample.o
+ .debug_macro   0x000033a6       0x22 ./src/SD_SpiExample.o
+ .debug_macro   0x000033c8      0x162 ./src/SD_SpiExample.o
+ .debug_macro   0x0000352a       0x94 ./src/SD_SpiExample.o
+ .debug_macro   0x000035be       0xb8 ./src/SD_SpiExample.o
+ .debug_macro   0x00003676       0x4c ./src/SD_SpiExample.o
+ .debug_macro   0x000036c2       0x16 ./src/SD_SpiExample.o
+ .debug_macro   0x000036d8      0x328 ./src/SD_SpiExample.o
+ .debug_macro   0x00003a00       0x49 ./src/SD_SpiExample.o
+ .debug_macro   0x00003a49       0x16 ./src/SD_SpiExample.o
+ .debug_macro   0x00003a5f       0xca ./src/SD_SpiExample.o
+ .debug_macro   0x00003b29       0x18 ./src/SD_SpiExample.o
+ .debug_macro   0x00003b41       0xbe ./src/SD_SpiExample.o
+ .debug_macro   0x00003bff       0x9a ./src/SD_SpiExample.o
+ .debug_macro   0x00003c99       0x20 ./src/SD_SpiExample.o
+ .debug_macro   0x00003cb9       0x28 ./src/SD_SpiExample.o
+ .debug_macro   0x00003ce1       0xe9 ./src/SD_SpiExample.o
+ .debug_macro   0x00003dca       0xe0 ./src/SD_SpiExample.o
+ .debug_macro   0x00003eaa       0x1d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00003ec7      0x217 ./src/sysinit.o
+ .debug_macro   0x000040de      0x22e C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x0000430c      0xa66 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00004d72       0x12 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00004d84      0x217 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00004f9b      0x42e C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .debug_macro   0x000053c9      0xa6c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .debug_macro   0x00005e35       0xe7 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .debug_macro   0x00005f1c       0xac C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .debug_macro   0x00005fc8      0x2b9 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00006281       0x16 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00006297       0x9a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_macro   0x00006331      0x1cd C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x000064fe      0x1cd C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x000066cb      0x1cd C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00006898      0x1cd C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_macro   0x00006a65      0x1cd C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_line     0x00000000     0x4d8b
+ .debug_line    0x00000000      0x5ef ./src/SD_SpiExample.o
+ .debug_line    0x000005ef       0xd3 ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x000006c2      0x4ed ./src/sysinit.o
+ .debug_line    0x00000baf      0x7f2 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_line    0x000013a1      0x52d C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_line    0x000018ce      0xe33 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .debug_line    0x00002701      0x93a C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_line    0x0000303b      0x4b1 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_line    0x000034ec      0x72d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_line    0x00003c19      0x49d C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_line    0x000040b6      0x7aa C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_line    0x00004860      0x52b C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_str      0x00000000    0x14e30
+ .debug_str     0x00000000    0x11e76 ./src/SD_SpiExample.o
+                              0x11fb9 (size before relaxing)
+ .debug_str     0x00011e76      0x1c6 ./src/cr_startup_lpc175x_6x.o
+                               0x2ed2 (size before relaxing)
+ .debug_str     0x0001203c       0x1b ./src/sysinit.o
+                              0x113dc (size before relaxing)
+ .debug_str     0x00012057      0xa32 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                              0x11fbf (size before relaxing)
+ .debug_str     0x00012a89      0x22d C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+                              0x117e0 (size before relaxing)
+ .debug_str     0x00012cb6      0xe24 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+                               0x41d5 (size before relaxing)
+ .debug_str     0x00013ada      0x338 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+                              0x11b2f (size before relaxing)
+ .debug_str     0x00013e12       0xa8 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                              0x112ee (size before relaxing)
+ .debug_str     0x00013eba      0x857 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                              0x1196c (size before relaxing)
+ .debug_str     0x00014711       0x74 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                              0x10de9 (size before relaxing)
+ .debug_str     0x00014785      0x5e7 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+                              0x1186a (size before relaxing)
+ .debug_str     0x00014d6c       0xc4 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                              0x10fd1 (size before relaxing)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f ./src/SD_SpiExample.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 ./src/cr_startup_lpc175x_6x.o
+ .comment       0x0000007f       0x80 ./src/sysinit.o
+ .comment       0x0000007f       0x80 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .comment       0x0000007f       0x80 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .comment       0x0000007f       0x80 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .comment       0x0000007f       0x80 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .comment       0x0000007f       0x80 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .comment       0x0000007f       0x80 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .comment       0x0000007f       0x80 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .comment       0x0000007f       0x80 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .comment       0x0000007f       0x80 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .comment       0x0000007f       0x80 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 ./src/SD_SpiExample.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x00000066       0x33 ./src/sysinit.o
+ .ARM.attributes
+                0x00000099       0x33 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .ARM.attributes
+                0x000000cc       0x33 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .ARM.attributes
+                0x000000ff       0x33 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .ARM.attributes
+                0x00000132       0x33 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .ARM.attributes
+                0x00000165       0x33 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .ARM.attributes
+                0x00000198       0x33 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .ARM.attributes
+                0x000001cb       0x33 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .ARM.attributes
+                0x000001fe       0x33 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .ARM.attributes
+                0x00000231       0x33 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .ARM.attributes
+                0x00000264       0x33 c:/nxp/mcuxpressoide_10.3.1_2233/ide/plugins/com.nxp.mcuxpresso.tools.win32_10.3.0.201811011841/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libcr_c.a(__weak__main.o)
+
+.debug_frame    0x00000000     0x1cd8
+ .debug_frame   0x00000000       0xdc ./src/SD_SpiExample.o
+ .debug_frame   0x000000dc      0x170 ./src/cr_startup_lpc175x_6x.o
+ .debug_frame   0x0000024c       0x34 ./src/sysinit.o
+ .debug_frame   0x00000280      0x50c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_frame   0x0000078c       0x8c C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_frame   0x00000818      0x718 C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(ff.o)
+ .debug_frame   0x00000f30      0x2fc C:\Users\Juanma\Documents\MCUXpressoIDE_10.3.1_2233\workspace\FatFS_SPI\Debug\libFatFS_SPI.a(mmc.o)
+ .debug_frame   0x0000122c       0x88 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_frame   0x000012b4      0x490 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_frame   0x00001744       0x80 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_frame   0x000017c4      0x3e8 C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(ssp_17xx_40xx.o)
+ .debug_frame   0x00001bac      0x12c C:\Users\Juanma\Workspace GIT\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)

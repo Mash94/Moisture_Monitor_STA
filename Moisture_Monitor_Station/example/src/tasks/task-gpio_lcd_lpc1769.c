@@ -28,13 +28,6 @@ unsigned char i2c_error; // bit error
 #define DELY 50
 #define NINGUNA (0xFF)
 
-/*
-extern char* Linea1;
-extern char* Linea2;
-extern char* Linea3;
-extern char* Linea4;
-*/
-
 char Linea1[22]="Moisture Monitor STA";
 char Linea2[22]="Medicion:";
 char Linea3[22]="1-Guardar";
@@ -212,15 +205,6 @@ void DemorauS(uint32_t micros){
 	time = DWT->CYCCNT;
 }
 
-
-/*
-    Envía byte por I2C al PCF8574
-    Orden de escritura de bits a placa 8574
-
-    D7 D6 D5 D4 BL E RW RS
-
-    BL = Backlight (en este ejemplo siempre ON)
-*/
 void escribir_byte(unsigned char dato) {
     unsigned char byte_dire;
     /* start */

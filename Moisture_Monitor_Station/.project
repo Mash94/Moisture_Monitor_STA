@@ -3,6 +3,8 @@
 	<name>Moisture_Monitor_Station</name>
 	<comment></comment>
 	<projects>
+		<project>FatFS_SPI</project>
+		<project>LPC_BaseBoardBB1769_R02</project>
 		<project>lpc_chip_175x_6x</project>
 	</projects>
 	<buildSpec>

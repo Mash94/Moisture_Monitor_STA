@@ -12,6 +12,8 @@
 // Project header
 #include "../main/main.h"
 #include <string.h>
+#include "board.h"
+#include "ff.h"
 
 
 // ------ Public variable definitions ------------------------------
@@ -135,6 +137,7 @@ void SysTick_Handler(void)
     // Increment tick count (only)
     Tick_count_G++;
     Tick_sw++;
+    disk_timerproc();   /* Disk timer process */
 }
 
 

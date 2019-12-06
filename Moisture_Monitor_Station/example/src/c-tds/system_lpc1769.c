@@ -19,6 +19,7 @@
 #include "../tasks/task-gpio_DHT22_lpc1769.h"
 #include "../tasks/task-gpio_keyboard_lpc1769.h"
 #include "../tasks/task-UART_lpc1769.h"
+#include "../tasks/task-SD_lpc1769.h"
 
 
 // ------ Public variable ------------------------------------------
@@ -138,6 +139,9 @@ void SYSTEM_Configure_Required_Mode(void)
         	// Prepare to Write LED task
         	UART0_Init();
 
+        	// Prepare to Write LED task
+        	GPIO_SD_Init();
+
         	// Prepare for Heartbeat task
         	HEARTBEAT_Init();
 
@@ -164,6 +168,10 @@ void SYSTEM_Configure_Required_Mode(void)
         	// Add UART0 task
         	SCH_Add_Task(UART0_Update, 0, 10, 100, 0);
         	//Task  :UART0; Parámetros: delay = 20ms, período = 100ms, WCET = 1s, BCET= 0.
+
+        	// Add UART0 task
+        	SCH_Add_Task(GPIO_SD_Update, 1, 10, 100, 0);
+        	//Task  :SD; Parámetros: delay = 20ms, período = 100ms, WCET = 1s, BCET= 0.
 
             // Add GPIO_KEYBOARD task
             SCH_Add_Task(GPIO_MUX_KEYBOARD_update, 0, 1, 20, 0);
